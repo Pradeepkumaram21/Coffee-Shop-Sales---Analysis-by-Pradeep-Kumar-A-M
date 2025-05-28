@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales---Analysis-by-Pradeep-Kumar-A-M
+# Coffee-Shop-Sales---Analysis-by-Pradeep-Kumar-A-M--using Power Bi
 # ☕ Coffee Shop Sales Analysis Dashboard – Power BI
 
 Welcome to the **Coffee Shop Sales Analysis** project! This repository showcases an advanced Power BI dashboard built to provide deep insights into the business performance of a coffee shop chain. From sales trends to customer behavior and product-level analysis, the dashboard offers actionable data to support strategic decision-making.
