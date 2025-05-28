@@ -81,7 +81,7 @@ This project is centered around building a sophisticated Power BI dashboard to v
 
 ## 📁 Files in This Repository
 - `.pbix` Power BI file
-- Sample datasets (if applicable)
+- Sample datasets 
 - This `README.md` file
 
 
